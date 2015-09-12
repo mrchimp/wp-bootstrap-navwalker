@@ -1,0 +1,13 @@
+{
+    "name": "mrchimp/wp-bootstrap-navwalker",
+    "description": "Wordpress nav walker for Bootstrap 4 menus.",
+    "type": "library",
+    "license": "GNU-2.0+",
+    "authors": [
+        {
+            "name": "mrchimp",
+            "email": "chimpytk@gmail.com"
+        }
+    ],
+    "require": {}
+}
